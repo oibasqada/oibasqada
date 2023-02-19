@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oibasqada
 - 👀 I’m interested in front-end developing, becoming a pro
-- 🌱 I’m currently learning JS on the odin project
+- 🌱 I’m currently learning JS at Codify Lab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tumarbekovmax@gmail.com
 
